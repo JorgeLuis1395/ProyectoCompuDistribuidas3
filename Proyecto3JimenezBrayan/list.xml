@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Advanced_IP_scanner>
+	<row status="alive" name="192.168.1.1" ip="192.168.1.1" manufacturer="HUAWEI TECHNOLOGIES CO.,LTD" mac="A4:99:47:96:84:21" has_http="1" is_http8080="0" http_title="Login" has_https="0" has_ftp="1" has_rdp="0">
+	</row>
+	<row status="alive" name="192.168.1.2" ip="192.168.1.2" manufacturer="LG Electronics (Mobile Communications)" mac="78:F8:82:F7:23:84" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0">
+	</row>
+	<row status="alive" name="DESKTOP-7F3O1LO" ip="192.168.1.5" manufacturer="Intel Corporate" mac="3C:F8:62:BA:67:C4" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0">
+	</row>
+	<row status="alive" name="DESKTOP-HFRQ19Q" ip="192.168.1.7" manufacturer="Intel Corporate" mac="C4:85:08:C5:F0:E4" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0">
+	</row>
+	<row status="alive" name="DESKTOP-LSMAKBE" ip="192.168.1.8" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="90:FB:A6:2D:56:DE" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0">
+	</row>
+</Advanced_IP_scanner>
